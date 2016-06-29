@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Kawabanga</string>
+    <string name="action_settings">Settings</string>
+    <string name="cliente">Cliente</string>
+    <string name="tamanho">Tamanho</string>
+    <string name="grande">Grande</string>
+    <string name="media">Média</string>
+
+    <string name="mussarela">Mussarela</string>
+    <string name="calabresa">Calabresa</string>
+    <string name="bacon">Bacon</string>
+    <string name="portuguesa">Portuguesa</string>
+    <string name="quatroqueijos">Quatro Queijos</string>
+    <string name="paulista">Paulista</string>
+
+    <string name="selecione">Selecione</string>
+
+    <string name="pedido_com_sucesso">Sr(a). %1$s seu pedido foi realizado
+    com sucesso!</string>
+</resources>
+
+
+
+
+
+
+
+
+
+

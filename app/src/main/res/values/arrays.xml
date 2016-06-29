@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pizzas">
+        <item>@string/selecione</item>
+        <item>@string/bacon</item>
+        <item>@string/calabresa</item>
+        <item>@string/mussarela</item>
+        <item>@string/paulista</item>
+        <item>@string/quatroqueijos</item>
+    </string-array>
+</resources>
